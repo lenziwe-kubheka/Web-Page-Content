@@ -1,0 +1,42 @@
+ody {
+    background-color: #ffffff;
+  }
+  
+  .LENZIWE {
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+  }
+  
+  .left {
+    float: left;
+    width: 45%;
+    padding: 20px;
+    margin: 20px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+  }
+  .left {
+    float: left;
+    width: 45%;
+    padding: 20px;
+    margin: 20px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+  }
+  
+  .right {
+    float: right;
+    width: 45%;
+    padding: 20px;
+    margin: 20px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+  }
+  
